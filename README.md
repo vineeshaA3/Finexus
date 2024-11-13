@@ -40,13 +40,21 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 ->Next.js
 <br>
 ->TypeScript
+<br>
 ->Appwrite
+<br>
 ->Plaid
+<br>
 ->Dwolla
+<br>
 ->React Hook Form
+<br>
 ->Zod
+<br>
 ->TailwindCSS
+<br>
 ->Chart.js
+<br>
 ->ShadCN
 
 ## <a name="features">🔋 Features</a>
