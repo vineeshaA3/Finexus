@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/PuOVqP_cjkE?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/banking/assets/151519281/3c03519c-7ebd-4539-b598-49e63d1770b4" alt="Project Banner">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dhiwise.com%2Ftemplates%2Ffirst-bank-digital-banking-react&psig=AOvVaw3N-YGvkaoiq1m1rwvgwXww&ust=1731603258386000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCBx4Xj2YkDFQAAAAAdAAAAABAE" alt="Project Banner">
     </a>
   <br />
   
